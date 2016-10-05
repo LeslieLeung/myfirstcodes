@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 #coding=utf-8
 '''
-Created on 2014-11-17
- 
-@author: Neo
+Copied in Zhihu
+Author:Leslie_Leung
+
+
 '''
 import turtle
 import math
