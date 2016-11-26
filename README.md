@@ -1,5 +1,4 @@
 # myfirstcodes
 Leslie's first codes.
-``
-sudo apt-get install fuckyou
-``
+
+It's gonna be rough.
